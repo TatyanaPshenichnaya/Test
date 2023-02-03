@@ -1,0 +1,1 @@
+the difference of the window function from the aggregate function
